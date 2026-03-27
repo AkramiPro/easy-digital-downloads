@@ -48,7 +48,7 @@
 		"grunt-force-task": "^2.0.0",
 		"grunt-replace": "^2.0.1",
 		"load-grunt-tasks": "^3.5.2",
-		"locutus": "^2.0.11",
+		"locutus": "^3.0.25",
 		"lodash.foreach": "^4.5.0",
 		"micromodal": "^0.4.10",
 		"mini-css-extract-plugin": "0.9.0",
